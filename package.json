@@ -1,0 +1,25 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianibassani/iss_spotter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianibassani/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/tatianibassani/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
